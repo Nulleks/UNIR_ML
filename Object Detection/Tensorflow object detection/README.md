@@ -1,5 +1,8 @@
-# Faster rcnn inception
+# Person detection - Faster rcnn inception 
 
+Trained with [Tensorflow](https://github.com/tensorflow/models/tree/master/research/object_detection)
+
+Dataset: [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
 Download model: uploading
 
