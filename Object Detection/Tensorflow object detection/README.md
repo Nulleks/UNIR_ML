@@ -1,7 +1,7 @@
 # Faster rcnn inception
 
 
-Download model:
+Download model: uploading
 
 
 ## Usage
