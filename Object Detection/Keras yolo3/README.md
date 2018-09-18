@@ -1,8 +1,18 @@
-# Person classification - Keras
+# Person detection - YOLOv3
 
-Trained with [Keras](https://keras.io/)
+ Trained with [Keras-YOLO3](https://github.com/experiencor/keras-yolo3)
 
-Dataset: [INRIA Person Dataset](http://pascal.inrialpes.fr/data/human/)
+ Dataset: [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
-Download model: uploading
+ Download model: uploading
 
+
+ ## Usage
+ 
+`python predict.py -c config.json -i /path/to/image/or/video or webcam -o /path/output/directory(optional)`
+
+ Example:
+ 
+ `python predict.py -c config.json -i sample.jpg`
+ 
+ `python predict.py -c config.json -i webcam`
