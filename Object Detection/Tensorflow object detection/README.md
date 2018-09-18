@@ -4,7 +4,7 @@ Trained with [Tensorflow](https://github.com/tensorflow/models/tree/master/resea
 
 Dataset: [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
-Download model: uploading
+Download model: https://1drv.ms/f/s!AorkmCSibVijg20DGhsGaRYvTDi5 (Put in the root folder of the repository)
 
 
 ## Usage
