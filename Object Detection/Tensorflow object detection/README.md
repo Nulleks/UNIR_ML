@@ -1,4 +1,4 @@
-# Person detection - Faster rcnn inception 
+# Person detection - Faster rcnn inception v2
 
 Trained with [Tensorflow](https://github.com/tensorflow/models/tree/master/research/object_detection)
 
