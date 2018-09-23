@@ -4,7 +4,7 @@
 
  Dataset: [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/)
 
- Download model: https://1drv.ms/u/s!AorkmCSibVijg27vwX3ld2GaByl_ (Put in the root folder of the repository)
+ Download model: [person.h5](https://1drv.ms/u/s!AorkmCSibVijg27vwX3ld2GaByl_) (Put in the root folder of the repository)
 
 
  ## Usage
